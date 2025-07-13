@@ -6,4 +6,4 @@
 这都是我们的心血
 
 如果你觉得不错可以对我们进行捐赠，我们没有稳定的收入，感谢大家的支持
-![WeChat](./img/wechat.jpg)![AliPay](alipay.png)
+![WeChat](./img/wechat.jpg)![AliPay](./img/alipay.png)
